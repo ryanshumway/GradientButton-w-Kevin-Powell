@@ -2,7 +2,7 @@
 Purpose: I want to learn how to do a simple, interactive gradient button
 
 Where did I get the idea? I saw Kevin Powell doing a YouTube tutorial on them, so naturally I had to learn it. 
-(Youtube Tutorial) - https://bit.ly/3xok7id
+(Youtube Tutorial)[https://bit.ly/3xok7id]
 
 ## Result
 - I got the gradient from [here](https://webgradients.com)
