@@ -1,0 +1,50 @@
+:root {
+    --pinkPeachGradient: linear-gradient(120deg, #FFB0B0 0%, #EEB1FF 50%, #80CEFF 100%);
+  
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.125em;
+    line-height: 1.6;
+    color: rgb(39, 39, 39);
+    background: #F5F5F5;
+  }
+
+  .headerText {
+      margin: 0;
+      padding-bottom: 12px;
+  }
+  
+  .wrapper {
+      border-radius: .5em;
+      padding: 1em;
+      background-color: #F5F5F5;
+      box-shadow: 0px 4px 12px 2px rgba(0, 0, 0, 0.16);
+  }
+
+  .fun {
+      border: none;
+      padding: 1em 1.5em;
+      border-radius: 4em;
+      font-size: .75em;
+      color: rgb(39, 39, 39);
+      font-weight: 700;
+      background-image: var(--pinkPeachGradient);
+      transition: background-position .25s ease-in-out, scale .12s ease-in-out;
+      background-position: left;
+      background-size: 250%;
+
+  }
+
+  .fun:hover, .fun:focus {
+    background-position: right;
+  }
+
+  .fun:active {
+      scale: .95;
+  }
