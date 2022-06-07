@@ -1,7 +1,7 @@
 # GradientButton-w-Kevin-Powell
 Purpose: I want to learn how to do a simple, interactive gradient button
 
-Where did I get the idea? I saw Kevin Powell doing a YouTube tutorial on them, so naturally I had to learn it. 
+Where did I get the idea? I saw [Kevin Powell](https://github.com/kevin-powell) doing a YouTube tutorial on them, so naturally I had to learn it. 
 [Youtube Tutorial](https://bit.ly/3xok7id)
 
 ## Result
